@@ -35,13 +35,13 @@ export const dataForName = {
         id: 6,
         question: 'B1',
         answers: ['The Original Chicken', 'Broccoli Beef', 'Honey Walnut Shrimp', 'String Bean Chicken Beast', 'Beijing Beef', 'Grilled Teriyaki Chicken', 'Kung Pao Chicken', 'Honey Sesame Chicken Breast', 'Mushroom Chicken', 'Black Pepper Augus Steak', 'Chicken Egg Roll', 'Vegetable Spring Roll', 'Cream Cheese Rangoons', 'Apple Pie Roll', 'Blazing Boubon Chicken', 'Sweet Fire Chicken Breast', 'Chow Mein', 'Fried Rice', 'Super Greens', 'White Steamed Rice'],
-        correctAnswer: 'BROCCOLI BEEF',
+        correctAnswer: 'Broccoli Beef',
       },
       {
         id: 7,
         question: 'F4',
         answers: ['The Original Chicken', 'Broccoli Beef', 'Honey Walnut Shrimp', 'String Bean Chicken Beast', 'Beijing Beef', 'Grilled Teriyaki Chicken', 'Kung Pao Chicken', 'Honey Sesame Chicken Breast', 'Mushroom Chicken', 'Black Pepper Augus Steak', 'Chicken Egg Roll', 'Vegetable Spring Roll', 'Cream Cheese Rangoons', 'Apple Pie Roll', 'Blazing Boubon Chicken', 'Sweet Fire Chicken Breast', 'Chow Mein', 'Fried Rice', 'Super Greens', 'White Steamed Rice'],
-        correctAnswer: 'HONEY WALNUT SHRIMP',
+        correctAnswer: 'Honey Walnut Shrimp',
       },
       {
         id: 8,
