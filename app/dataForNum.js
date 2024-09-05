@@ -1,0 +1,126 @@
+export const dataForNum = {
+    totalQuestions: 20,
+    questions: [
+      {
+        id: 1,
+        question: 'Chow Mein',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'M1',
+      },
+      {
+        id: 2,
+        question: 'Fried Rice',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'R1',
+      },
+      {
+        id: 3,
+        question: 'Super Greens',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'V1',
+      },
+      {
+        id: 4,
+        question: 'White Steamed Rice',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'R2',
+      },
+      {
+        id: 5,
+        question: 'The Original Orange Chicken',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'C1',
+      },
+      {
+        id: 6,
+        question: 'Broccoli Beef',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'B1',
+      },
+      {
+        id: 7,
+        question: 'Honey Walnut Shrimp',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'F4',
+      },
+      {
+        id: 8,
+        question: 'String Bean Chicken Breast',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'CB1',
+      },
+      {
+        id: 9,
+        question: 'Beijing Beef',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'B5',
+      },
+      {
+        id: 10,
+        question: 'Grilled Teriyaki Chicken',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'C4',
+      },
+      {
+        id: 11,
+        question: 'Kung Pao Chicken',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'C3',
+      },
+      {
+        id: 12,
+        question: 'Honey Sesame Chicken Breast',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'CB3',
+      },
+      {
+        id: 13,
+        question: 'Mushroom Chicken',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'C2',
+      },
+      {
+        id: 14,
+        question: 'Black Pepper Angus Steak',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'B3',
+      },
+      {
+        id: 16,
+        question: 'Chicken Egg Roll',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'E2',
+      },
+      {
+        id: 16,
+        question: 'Vegetable Spring Rolls',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'E1',
+      },
+      {
+        id: 17,
+        question: 'Cream Cheese Rangoons',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'E3',
+      },
+      {
+        id: 18,
+        question: 'Apple Pie Roll',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'E5',
+      },
+      {
+        id: 19,
+        question: 'Blazing Boubon Chicken',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'C9',
+      },
+      {
+        id: 20,
+        question: 'Sweet Fire Chicken Breast',
+        answers: ['CB5', 'C4', 'B5', 'C3', 'V1', 'B1', 'F4', 'C1', 'CB1', 'C2', 'B3', 'R2', 'M1', 'R1', 'E1', 'C9', 'E5', 'E2', 'E3', 'CB3'],
+        correctAnswer: 'CB5',
+      },
+    ],
+  };
+  
