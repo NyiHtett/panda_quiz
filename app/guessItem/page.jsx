@@ -3,7 +3,7 @@ import Link from 'next/link';
 import React, {useState} from 'react';
 import { dataForName } from '../dataForName';
 const Page = () => {
-    const [activeQuestion, setActiveQuestion] = useState(19);
+    const [activeQuestion, setActiveQuestion] = useState(0);
     const [selectedAnswer, setSelectedAnswer] = useState('');
     const [checked, setChecked] = useState(false);
     const [selectedAnswerIndex, setSelectedAnswerIndex] = useState(null);
